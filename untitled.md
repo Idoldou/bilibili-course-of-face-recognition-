@@ -4,7 +4,9 @@ logistic 回归
 
 逻辑回归是一个主要用于二分分类的算法。回归逻辑是给定一个x，输出一个该样本属于1对应类别的预测概率
 
-![sigmoid and loss function](.gitbook/assets/image%20%288%29.png)
+![sigmoid and loss function](.gitbook/assets/image%20%2810%29.png)
 
-![](.gitbook/assets/image%20%282%29.png)
+![](.gitbook/assets/image%20%284%29.png)
+
+![](.gitbook/assets/image%20%281%29.png)
 

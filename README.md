@@ -20,7 +20,7 @@ scikit-learn== 0.18.1
 
 natplotlib== 2.2.2
 
-![Difference of machine learning and deep learning](.gitbook/assets/image%20%281%29.png)
+![Difference of machine learning and deep learning](.gitbook/assets/image%20%283%29.png)
 
 特征处理 ：
 
